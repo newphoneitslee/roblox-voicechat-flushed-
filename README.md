@@ -1,1 +1,3 @@
-
+--90% sure this is probably incomplete code, i most likely got stuck with the ctrl c and ctrl v situation.
+--i thought it would be pretty cool to put this up because ya gotta spice up your profile.
+--and it looked pretty attention grabbing.
